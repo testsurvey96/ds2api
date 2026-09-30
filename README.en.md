@@ -439,3 +439,7 @@ This project is built through reverse engineering and is provided for learning, 
 The author and repository maintainers are not responsible for any direct or indirect loss, account suspension, data loss, legal risk, or third-party claims arising from use, modification, distribution, deployment, or reliance on this project.
 
 Do not use this project in ways that violate service terms, agreements, laws, or platform rules. Before any commercial use, review the `LICENSE`, the relevant terms, and confirm that you have the author's written permission.
+
+---
+
+Last updated: 2026-08-22
